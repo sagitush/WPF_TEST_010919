@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WpfApp1._9._19Test.Properties
+namespace Question2.Properties
 {
 
 
